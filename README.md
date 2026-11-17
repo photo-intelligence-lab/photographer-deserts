@@ -179,3 +179,5 @@ headshots from your own selfies: up to 200 photos from $27, no studio, no drive.
 
 CC BY 4.0. Source data: US Census Bureau (CBP 2023, NES 2024, Population Estimates V2025). Cite as: *Photo Intelligence
 Lab by Narkis, "Photographer deserts", 2026, https://narkis.ai/research/photographer-deserts*.
+
+Also on Kaggle: https://www.kaggle.com/datasets/photointelligencelab/photographer-deserts

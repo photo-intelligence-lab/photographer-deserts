@@ -1,0 +1,400 @@
+fips,county,state,pop2024,pop2025,cbsa,cbsa_name,cbsa_type,cbp23_541921,cbp23_541922,cbp23_54192,nes24_54192,nes24_flag,total_54192,per100k,total_upper,per100k_upper,residents_per_business,portrait_employer_per100k,nonemp_per100k,nes24_rcptot_k,nes23_54192,nes23_flag,total_2023matched,per100k_2023matched
+01025,Clarke County,Alabama,22127,22014,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,18.08,,0.0,0.0,,0.0,absent(0),0.0,0.0
+05123,St. Francis County,Arkansas,21939,21800,22620,"Forrest City, AR",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,18.23,,0.0,0.0,,0.0,absent(0),0.0,0.0
+28079,Leake County,Mississippi,21592,21662,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,18.53,,0.0,0.0,,4.0,published,4.0,18.76
+40001,Adair County,Oklahoma,19704,19828,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,20.3,,0.0,0.0,,4.0,published,4.0,20.46
+12079,Madison County,Florida,18644,18759,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,21.45,,0.0,0.0,,3.0,published,3.0,16.18
+47091,Johnson County,Tennessee,18522,18718,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,21.6,,0.0,0.0,,4.0,published,4.0,21.83
+02050,Bethel Census Area,Alaska,18365,18391,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,21.78,,0.0,0.0,,0.0,absent(0),0.0,0.0
+01087,Macon County,Alabama,18275,18132,12220,"Auburn-Opelika, AL",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,21.89,,0.0,0.0,,0.0,absent(0),0.0,0.0
+28025,Clay County,Mississippi,18239,18238,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,21.93,,0.0,0.0,,4.0,published,4.0,21.91
+05067,Jackson County,Arkansas,16638,16741,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,24.04,,0.0,0.0,,0.0,absent(0),0.0,0.0
+35057,Torrance County,New Mexico,15942,16100,10740,"Albuquerque, NM",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,25.09,,0.0,0.0,,0.0,absent(0),0.0,0.0
+28051,Holmes County,Mississippi,15638,15465,27140,"Jackson, MS",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,25.58,,0.0,0.0,,5.0,published,5.0,31.51
+48255,Karnes County,Texas,15020,15018,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,26.63,,0.0,0.0,,0.0,absent(0),0.0,0.0
+21191,Pendleton County,Kentucky,14801,14800,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,27.03,,0.0,0.0,,0.0,absent(0),0.0,0.0
+22127,Winn Parish,Louisiana,14766,14961,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,27.09,,0.0,0.0,,0.0,absent(0),0.0,0.0
+21221,Trigg County,Kentucky,14513,14512,17300,"Clarksville, TN-KY",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,27.56,,0.0,0.0,,0.0,absent(0),0.0,0.0
+40035,Craig County,Oklahoma,14474,14518,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,27.64,,0.0,0.0,,8.0,published,8.0,55.29
+13251,Screven County,Georgia,14388,14408,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,27.8,,0.0,0.0,,0.0,absent(0),0.0,0.0
+05065,Izard County,Arkansas,14299,14405,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,27.97,,0.0,0.0,,4.0,published,4.0,28.19
+01027,Clay County,Alabama,14212,14207,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,28.15,,0.0,0.0,,4.0,published,4.0,28.28
+05021,Clay County,Arkansas,14078,14052,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,28.41,,0.0,0.0,,0.0,absent(0),0.0,0.0
+28041,Greene County,Mississippi,13687,13707,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,29.22,,0.0,0.0,,0.0,absent(0),0.0,0.0
+54087,Roane County,West Virginia,13508,13317,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,29.61,,0.0,0.0,,0.0,absent(0),0.0,0.0
+40063,Hughes County,Oklahoma,13446,13455,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,29.75,,0.0,0.0,,3.0,published,3.0,22.32
+51051,Dickenson County,Virginia,13388,13236,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,29.88,,0.0,0.0,,4.0,published,4.0,29.46
+47101,Lewis County,Tennessee,13354,13487,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,29.95,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48379,Rains County,Texas,13323,13542,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,30.02,,0.0,0.0,,4.0,published,4.0,30.62
+12037,Franklin County,Florida,12954,13029,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,30.88,,0.0,0.0,,3.0,published,3.0,23.79
+21025,Breathitt County,Kentucky,12751,12558,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,31.37,,0.0,0.0,,0.0,absent(0),0.0,0.0
+13023,Bleckley County,Georgia,12653,12866,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,31.61,,0.0,0.0,,3.0,published,3.0,24.06
+05049,Fulton County,Arkansas,12554,12492,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,31.86,,0.0,0.0,,0.0,absent(0),0.0,0.0
+54063,Monroe County,West Virginia,12516,12491,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,31.96,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20001,Allen County,Kansas,12361,12302,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,32.36,,0.0,0.0,,6.0,published,6.0,48.18
+21229,Washington County,Kentucky,12310,12368,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,32.49,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48389,Reeves County,Texas,12125,12138,45880,"Town of Pecos, TX",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,32.99,,0.0,0.0,,3.0,published,3.0,25.13
+29115,Linn County,Missouri,11874,11815,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,33.69,,0.0,0.0,,0.0,absent(0),0.0,0.0
+13193,Macon County,Georgia,11855,11756,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,33.74,,0.0,0.0,,,S,0.0,
+01119,Sumter County,Alabama,11629,11588,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,34.4,,0.0,0.0,,5.0,published,5.0,42.53
+28111,Perry County,Mississippi,11448,11577,25620,"Hattiesburg, MS",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,34.94,,0.0,0.0,,0.0,absent(0),0.0,0.0
+13271,Telfair County,Georgia,11123,11195,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,35.96,,0.0,0.0,,4.0,published,4.0,36.48
+21041,Carroll County,Kentucky,11111,11141,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,36.0,,0.0,0.0,,0.0,absent(0),0.0,0.0
+28065,Jefferson Davis County,Mississippi,11031,10941,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,36.26,,0.0,0.0,,0.0,absent(0),0.0,0.0
+51103,Lancaster County,Virginia,10971,10995,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,36.46,,0.0,0.0,,3.0,published,3.0,27.58
+28135,Tallahatchie County,Mississippi,10961,10877,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,36.49,,0.0,0.0,,3.0,published,3.0,26.14
+51119,Middlesex County,Virginia,10941,10841,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,36.56,,0.0,0.0,,5.0,published,5.0,45.77
+29181,Ripley County,Missouri,10716,10717,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,37.33,,0.0,0.0,,0.0,absent(0),0.0,0.0
+02185,North Slope Borough,Alaska,10618,10582,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,37.67,,0.0,0.0,,3.0,published,3.0,28.32
+13099,Early County,Georgia,10466,10455,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,38.22,,0.0,0.0,,5.0,published,5.0,47.25
+13173,Lanier County,Georgia,10387,10623,46660,"Valdosta, GA",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,38.51,,0.0,0.0,,5.0,published,5.0,48.18
+05041,Desha County,Arkansas,10305,9984,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,38.82,,0.0,0.0,,0.0,absent(0),0.0,0.0
+01037,Coosa County,Alabama,10284,10161,45180,"Talladega-Sylacauga, AL",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,38.9,,0.0,0.0,,0.0,absent(0),0.0,0.0
+46109,Roberts County,South Dakota,10278,10255,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,38.92,,0.0,0.0,,0.0,absent(0),0.0,0.0
+05105,Perry County,Arkansas,10271,10309,30780,"Little Rock-North Little Rock-Conway, AR",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,38.94,,0.0,0.0,,3.0,published,3.0,29.45
+48403,Sabine County,Texas,10084,10012,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,39.67,,0.0,0.0,,0.0,absent(0),0.0,0.0
+28155,Webster County,Mississippi,10045,10167,44260,"Starkville, MS",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,39.82,,0.0,0.0,,5.0,published,5.0,50.05
+01131,Wilcox County,Alabama,9890,9666,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,40.44,,0.0,0.0,,0.0,absent(0),0.0,0.0
+05127,Scott County,Arkansas,9866,9965,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,40.54,,0.0,0.0,,0.0,absent(0),0.0,0.0
+30023,Deer Lodge County,Montana,9766,9709,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,40.96,,0.0,0.0,,4.0,published,4.0,41.42
+48399,Runnels County,Texas,9758,9693,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,40.99,,0.0,0.0,,0.0,absent(0),0.0,0.0
+29079,Grundy County,Missouri,9749,9744,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,41.03,,0.0,0.0,,4.0,published,4.0,40.78
+21131,Leslie County,Kentucky,9749,9627,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,41.03,,0.0,0.0,,0.0,absent(0),0.0,0.0
+22021,Caldwell Parish,Louisiana,9432,9344,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,42.41,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48237,Jack County,Texas,9421,9563,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,42.46,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48429,Stephens County,Texas,9414,9380,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,42.49,,0.0,0.0,,3.0,published,3.0,31.96
+28015,Carroll County,Mississippi,9385,9226,24900,"Greenwood, MS",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,42.62,,0.0,0.0,,0.0,absent(0),0.0,0.0
+05017,Chicot County,Arkansas,9322,9107,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,42.91,,0.0,0.0,,0.0,absent(0),0.0,0.0
+22123,West Carroll Parish,Louisiana,9256,9156,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,43.22,,0.0,0.0,,3.0,published,3.0,32.24
+13253,Seminole County,Georgia,9248,9162,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,43.25,,0.0,0.0,,0.0,absent(0),0.0,0.0
+13167,Johnson County,Georgia,9218,9310,20140,"Dublin, GA",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,43.39,,0.0,0.0,,0.0,absent(0),0.0,0.0
+13155,Irwin County,Georgia,9155,9020,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,43.69,,0.0,0.0,,3.0,published,3.0,32.9
+28143,Tunica County,Mississippi,9111,8819,32820,"Memphis, TN-MS-AR",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,43.9,,0.0,0.0,,0.0,absent(0),0.0,0.0
+29153,Ozark County,Missouri,9099,9172,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,43.96,,0.0,0.0,,4.0,published,4.0,44.47
+21143,Lyon County,Kentucky,9077,9123,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,44.07,,0.0,0.0,,0.0,absent(0),0.0,0.0
+22065,Madison Parish,Louisiana,9076,8844,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,44.07,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48335,Mitchell County,Texas,8955,8947,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,44.67,,0.0,0.0,,3.0,published,3.0,32.99
+46121,Todd County,South Dakota,8913,8863,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,44.88,,0.0,0.0,,0.0,absent(0),0.0,0.0
+13315,Wilcox County,Georgia,8891,8797,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,44.99,,0.0,0.0,,0.0,absent(0),0.0,0.0
+13273,Terrell County,Georgia,8776,8656,10500,"Albany, GA",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,45.58,,0.0,0.0,,0.0,absent(0),0.0,0.0
+21077,Gallatin County,Kentucky,8764,8840,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,45.64,,0.0,0.0,,0.0,absent(0),0.0,0.0
+21223,Trimble County,Kentucky,8639,8701,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,46.3,,0.0,0.0,,3.0,published,3.0,34.76
+51115,Mathews County,Virginia,8585,8529,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,46.59,,0.0,0.0,,0.0,absent(0),0.0,0.0
+05097,Montgomery County,Arkansas,8555,8579,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,46.76,,0.0,0.0,,3.0,published,3.0,34.86
+35037,Quay County,New Mexico,8542,8454,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,46.83,,0.0,0.0,,0.0,absent(0),0.0,0.0
+47083,Houston County,Tennessee,8525,8479,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,46.92,,0.0,0.0,,3.0,published,3.0,35.75
+13003,Atkinson County,Georgia,8489,8454,20060,"Douglas, GA",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,47.12,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20205,Wilson County,Kansas,8301,8299,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,48.19,,0.0,0.0,,3.0,published,3.0,35.77
+40075,Kiowa County,Oklahoma,8259,8181,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,48.43,,0.0,0.0,,0.0,absent(0),0.0,0.0
+29081,Harrison County,Missouri,8236,8281,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,48.57,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48127,Dimmit County,Texas,8216,8024,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,48.69,,0.0,0.0,,0.0,absent(0),0.0,0.0
+28021,Claiborne County,Mississippi,8092,8058,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,49.43,,0.0,0.0,,0.0,absent(0),0.0,0.0
+12077,Liberty County,Florida,7977,8035,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,50.14,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48083,Coleman County,Texas,7974,7915,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,50.16,,0.0,0.0,,0.0,absent(0),0.0,0.0
+05117,Prairie County,Arkansas,7963,7923,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,50.23,,0.0,0.0,,0.0,absent(0),0.0,0.0
+02158,Kusilvak Census Area,Alaska,7956,7932,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,50.28,,0.0,0.0,,0.0,absent(0),0.0,0.0
+47027,Clay County,Tennessee,7810,7821,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,51.22,,0.0,0.0,,0.0,absent(0),0.0,0.0
+21181,Nicholas County,Kentucky,7752,7949,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,51.6,,0.0,0.0,,0.0,absent(0),0.0,0.0
+54015,Clay County,West Virginia,7693,7538,16620,"Charleston, WV",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,52.0,,0.0,0.0,,0.0,absent(0),0.0,0.0
+54017,Doddridge County,West Virginia,7642,7634,17220,"Clarksburg, WV",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,52.34,,0.0,0.0,,0.0,absent(0),0.0,0.0
+01105,Perry County,Alabama,7626,7425,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,52.45,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48495,Winkler County,Texas,7563,7540,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,52.89,,0.0,0.0,,3.0,published,3.0,39.34
+53019,Ferry County,Washington,7547,7517,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,53.0,,0.0,0.0,,3.0,published,3.0,40.03
+45005,Allendale County,South Carolina,7531,7355,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,53.11,,0.0,0.0,,0.0,absent(0),0.0,0.0
+28037,Franklin County,Mississippi,7529,7491,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,53.13,,0.0,0.0,,0.0,absent(0),0.0,0.0
+41025,Harney County,Oregon,7423,7380,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,53.89,,0.0,0.0,,3.0,published,3.0,40.23
+46047,Fall River County,South Dakota,7413,7467,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,53.96,,0.0,0.0,,4.0,published,4.0,54.24
+48069,Castro County,Texas,7343,7295,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,54.47,,0.0,0.0,,0.0,absent(0),0.0,0.0
+21129,Lee County,Kentucky,7293,7297,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,54.85,,0.0,0.0,,3.0,published,3.0,41.09
+22081,Red River Parish,Louisiana,7247,7165,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,55.2,,0.0,0.0,,0.0,absent(0),0.0,0.0
+02188,Northwest Arctic Borough,Alaska,7150,7095,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,55.94,,0.0,0.0,,0.0,absent(0),0.0,0.0
+01063,Greene County,Alabama,7136,7067,46220,"Tuscaloosa, AL",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,56.05,,0.0,0.0,,0.0,absent(0),0.0,0.0
+54021,Gilmer County,West Virginia,7117,7085,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,56.2,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20067,Grant County,Kansas,7064,7028,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,56.63,,0.0,0.0,,0.0,absent(0),0.0,0.0
+47067,Hancock County,Tennessee,7046,7075,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,56.77,,0.0,0.0,,3.0,published,3.0,43.02
+18161,Union County,Indiana,6934,6863,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,57.69,,0.0,0.0,,4.0,published,4.0,57.23
+22035,East Carroll Parish,Louisiana,6905,6760,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,57.93,,0.0,0.0,,3.0,published,3.0,43.64
+28063,Jefferson County,Mississippi,6887,6825,35020,"Natchez, MS-LA",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,58.08,,0.0,0.0,,0.0,absent(0),0.0,0.0
+13065,Clinch County,Georgia,6834,6847,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,58.53,,0.0,0.0,,0.0,absent(0),0.0,0.0
+47127,Moore County,Tennessee,6822,6920,46100,"Tullahoma-Manchester, TN",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,58.63,,0.0,0.0,,0.0,absent(0),0.0,0.0
+40141,Tillman County,Oklahoma,6798,6780,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,58.84,,0.0,0.0,,0.0,absent(0),0.0,0.0
+08103,Rio Blanco County,Colorado,6792,6683,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,58.89,,0.0,0.0,,5.0,published,5.0,75.23
+31021,Burt County,Nebraska,6726,6678,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,59.47,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48391,Refugio County,Texas,6720,6657,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,59.52,,0.0,0.0,,0.0,absent(0),0.0,0.0
+51640,Galax city,Virginia,6701,6670,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,59.69,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48047,Brooks County,Texas,6700,6579,10860,"Alice, TX",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,59.7,,0.0,0.0,,0.0,absent(0),0.0,0.0
+47175,Van Buren County,Tennessee,6683,6874,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,59.85,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20167,Russell County,Kansas,6654,6581,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,60.11,,0.0,0.0,,3.0,published,3.0,44.82
+31173,Thurston County,Nebraska,6609,6752,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,60.52,,0.0,0.0,,0.0,absent(0),0.0,0.0
+42053,Forest County,Pennsylvania,6595,6614,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,60.65,,0.0,0.0,,0.0,absent(0),0.0,0.0
+51036,Charles City County,Virginia,6582,6623,40060,"Richmond, VA",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,60.77,,0.0,0.0,,3.0,published,3.0,45.1
+48283,La Salle County,Texas,6550,6517,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,61.07,,0.0,0.0,,0.0,absent(0),0.0,0.0
+32027,Pershing County,Nevada,6465,6421,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,61.87,,0.0,0.0,,0.0,absent(0),0.0,0.0
+05095,Monroe County,Arkansas,6369,6244,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,62.8,,0.0,0.0,,0.0,absent(0),0.0,0.0
+26095,Luce County,Michigan,6368,6339,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,62.81,,0.0,0.0,,0.0,absent(0),0.0,0.0
+47095,Lake County,Tennessee,6339,6249,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,63.1,,0.0,0.0,,0.0,absent(0),0.0,0.0
+27167,Wilkin County,Minnesota,6319,6288,47420,"Wahpeton, ND-MN",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,63.3,,0.0,0.0,,0.0,absent(0),0.0,0.0
+29075,Gentry County,Missouri,6310,6384,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,63.39,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20053,Ellsworth County,Kansas,6302,6257,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,63.47,,0.0,0.0,,0.0,absent(0),0.0,0.0
+13243,Randolph County,Georgia,6170,6156,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,64.83,,0.0,0.0,,5.0,published,5.0,80.87
+31035,Clay County,Nebraska,6114,6170,25580,"Hastings, NE",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,65.42,,0.0,0.0,,0.0,absent(0),0.0,0.0
+05073,Lafayette County,Arkansas,6056,5888,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,66.05,,0.0,0.0,,0.0,absent(0),0.0,0.0
+21057,Cumberland County,Kentucky,6037,5992,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,66.26,,0.0,0.0,,0.0,absent(0),0.0,0.0
+17071,Henderson County,Illinois,6031,5984,15460,"Burlington, IA-IL",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,66.32,,0.0,0.0,,3.0,published,3.0,49.13
+48305,Lynn County,Texas,5959,6017,31180,"Lubbock, TX",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,67.13,,0.0,0.0,,3.0,published,3.0,51.52
+08047,Gilpin County,Colorado,5955,6073,19740,"Denver-Aurora-Centennial, CO",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,67.17,,0.0,0.0,,7.0,published,7.0,118.66
+54071,Pendleton County,West Virginia,5906,5826,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,67.73,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48411,San Saba County,Texas,5810,5787,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,68.85,,0.0,0.0,,,S,0.0,
+05147,Woodruff County,Arkansas,5793,5710,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,69.05,,0.0,0.0,,0.0,absent(0),0.0,0.0
+32015,Lander County,Nevada,5775,5872,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,69.26,,0.0,0.0,,3.0,published,3.0,51.69
+13263,Talbot County,Georgia,5754,5709,17980,"Columbus, GA-AL",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,69.52,,0.0,0.0,,0.0,absent(0),0.0,0.0
+08011,Bent County,Colorado,5745,5716,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,69.63,,0.0,0.0,,0.0,absent(0),0.0,0.0
+38005,Benson County,North Dakota,5731,5759,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,69.8,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20069,Gray County,Kansas,5690,5652,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,70.3,,0.0,0.0,,3.0,published,3.0,52.13
+16063,Lincoln County,Idaho,5631,5603,25200,"Hailey, ID",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,71.04,,0.0,0.0,,0.0,absent(0),0.0,0.0
+08073,Lincoln County,Colorado,5602,5645,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,71.4,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31051,Dixon County,Nebraska,5581,5602,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,71.67,,0.0,0.0,,0.0,absent(0),0.0,0.0
+08027,Custer County,Colorado,5567,5590,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,71.85,,0.0,0.0,,4.0,published,4.0,71.96
+40033,Cotton County,Oklahoma,5498,5432,30020,"Lawton, OK",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,72.75,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48207,Haskell County,Texas,5470,5499,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,73.13,,0.0,0.0,,3.0,published,3.0,55.12
+31059,Fillmore County,Nebraska,5466,5458,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,73.18,,0.0,0.0,,0.0,absent(0),0.0,0.0
+30065,Musselshell County,Montana,5452,5582,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,73.37,,0.0,0.0,,0.0,absent(0),0.0,0.0
+46037,Day County,South Dakota,5447,5484,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,73.43,,0.0,0.0,,3.0,published,3.0,55.26
+13037,Calhoun County,Georgia,5442,5413,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,73.5,,0.0,0.0,,3.0,published,3.0,54.6
+40055,Greer County,Oklahoma,5440,5373,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,73.53,,0.0,0.0,,0.0,absent(0),0.0,0.0
+40067,Jefferson County,Oklahoma,5422,5431,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,73.77,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20077,Harper County,Kansas,5407,5370,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,73.98,,0.0,0.0,,0.0,absent(0),0.0,0.0
+29035,Carter County,Missouri,5363,5418,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,74.59,,0.0,0.0,,3.0,published,3.0,56.31
+20137,Norton County,Kansas,5305,5288,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,75.4,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48317,Martin County,Texas,5287,5284,33260,"Midland, TX",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,75.66,,0.0,0.0,,3.0,published,3.0,56.85
+27087,Mahnomen County,Minnesota,5241,5153,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,76.32,,0.0,0.0,,0.0,absent(0),0.0,0.0
+30061,Mineral County,Montana,5187,5185,33540,"Missoula, MT",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,77.12,,0.0,0.0,,0.0,absent(0),0.0,0.0
+02016,Aleutians West Census Area,Alaska,5173,5240,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,77.32,,0.0,0.0,,0.0,absent(0),0.0,0.0
+47137,Pickett County,Tennessee,5146,5219,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,77.73,,0.0,0.0,,0.0,absent(0),0.0,0.0
+02290,Yukon-Koyukuk Census Area,Alaska,5100,5028,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,78.43,,0.0,0.0,,0.0,absent(0),0.0,0.0
+16071,Oneida County,Idaho,5016,5085,14940,"Brigham City, UT-ID",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,79.74,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48195,Hansford County,Texas,5012,4944,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,79.81,,0.0,0.0,,0.0,absent(0),0.0,0.0
+54105,Wirt County,West Virginia,4908,4879,37620,"Parkersburg-Vienna, WV",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,81.5,,0.0,0.0,,0.0,absent(0),0.0,0.0
+17171,Scott County,Illinois,4889,4866,27300,"Jacksonville, IL",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,81.82,,0.0,0.0,,0.0,absent(0),0.0,0.0
+17153,Pulaski County,Illinois,4883,4820,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,81.92,,0.0,0.0,,0.0,absent(0),0.0,0.0
+21039,Carlisle County,Kentucky,4764,4747,37140,"Paducah, KY-IL",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,83.96,,0.0,0.0,,3.0,published,3.0,63.24
+08121,Washington County,Colorado,4748,4732,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,84.25,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20163,Rooks County,Kansas,4717,4646,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,84.8,,0.0,0.0,,3.0,published,3.0,62.81
+05013,Calhoun County,Arkansas,4677,4632,15780,"Camden, AR",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,85.52,,0.0,0.0,,0.0,absent(0),0.0,0.0
+19159,Ringgold County,Iowa,4649,4642,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,86.04,,0.0,0.0,,0.0,absent(0),0.0,0.0
+13259,Stewart County,Georgia,4636,4631,17980,"Columbus, GA-AL",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,86.28,,0.0,0.0,,0.0,absent(0),0.0,0.0
+17003,Alexander County,Illinois,4611,4570,16020,"Cape Girardeau, MO-IL",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,86.75,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48247,Jim Hogg County,Texas,4611,4555,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,86.75,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48103,Crane County,Texas,4591,4554,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,87.13,,0.0,0.0,,0.0,absent(0),0.0,0.0
+02070,Dillingham Census Area,Alaska,4589,4483,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,87.16,,0.0,0.0,,0.0,absent(0),0.0,0.0
+16037,Custer County,Idaho,4582,4636,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,87.3,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48169,Garza County,Texas,4567,4510,31180,"Lubbock, TX",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,87.58,,0.0,0.0,,0.0,absent(0),0.0,0.0
+29171,Putnam County,Missouri,4562,4546,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,87.68,,0.0,0.0,,0.0,absent(0),0.0,0.0
+13249,Schley County,Georgia,4523,4593,11140,"Americus, GA",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,88.44,,0.0,0.0,,0.0,absent(0),0.0,0.0
+32021,Mineral County,Nevada,4481,4407,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,89.27,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31065,Furnas County,Nebraska,4471,4524,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,89.47,,0.0,0.0,,0.0,absent(0),0.0,0.0
+08095,Phillips County,Colorado,4454,4420,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,89.81,,0.0,0.0,,0.0,absent(0),0.0,0.0
+21105,Hickman County,Kentucky,4390,4372,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,91.12,,0.0,0.0,,0.0,absent(0),0.0,0.0
+17013,Calhoun County,Illinois,4310,4300,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,92.81,,0.0,0.0,,0.0,absent(0),0.0,0.0
+55078,Menominee County,Wisconsin,4230,4199,43020,"Shawano, WI",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,94.56,,0.0,0.0,,0.0,absent(0),0.0,0.0
+29087,Holt County,Missouri,4218,4200,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,94.83,,0.0,0.0,,3.0,published,3.0,70.36
+32029,Storey County,Nevada,4181,4260,39900,"Reno, NV",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,95.67,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31129,Nuckolls County,Nebraska,4096,4100,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,97.66,,0.0,0.0,,3.0,published,3.0,73.17
+35033,Mora County,New Mexico,4092,4051,29780,"Las Vegas, NM",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,97.75,,0.0,0.0,,0.0,absent(0),0.0,0.0
+38045,LaMoure County,North Dakota,4067,4135,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,98.35,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31175,Valley County,Nebraska,4065,4094,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,98.4,,0.0,0.0,,4.0,published,4.0,99.16
+53013,Columbia County,Washington,4046,4141,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,98.86,,0.0,0.0,,3.0,published,3.0,73.82
+46045,Edmunds County,South Dakota,4031,4022,10100,"Aberdeen, SD",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,99.23,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48319,Mason County,Texas,4010,3990,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,99.75,,0.0,0.0,,3.0,published,3.0,76.2
+46025,Clark County,South Dakota,4000,4031,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,100.0,,0.0,0.0,,0.0,absent(0),0.0,0.0
+35023,Hidalgo County,New Mexico,3951,3929,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,101.24,,0.0,0.0,,3.0,published,3.0,75.43
+35059,Union County,New Mexico,3939,3844,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,101.55,,0.0,0.0,,0.0,absent(0),0.0,0.0
+27125,Red Lake County,Minnesota,3894,3940,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,102.72,,0.0,0.0,,3.0,published,3.0,76.63
+20093,Kearny County,Kansas,3869,3888,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,103.39,,0.0,0.0,,0.0,absent(0),0.0,0.0
+35003,Catron County,New Mexico,3823,3827,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,104.63,,0.0,0.0,,3.0,published,3.0,78.51
+38081,Sargent County,North Dakota,3724,3711,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,107.41,,0.0,0.0,,0.0,absent(0),0.0,0.0
+38085,Sioux County,North Dakota,3717,3667,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,107.61,,0.0,0.0,,0.0,absent(0),0.0,0.0
+17151,Pope County,Illinois,3717,3672,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,107.61,,0.0,0.0,,0.0,absent(0),0.0,0.0
+29103,Knox County,Missouri,3708,3728,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,107.87,,0.0,0.0,,0.0,absent(0),0.0,0.0
+46085,Lyman County,South Dakota,3692,3694,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,108.34,,0.0,0.0,,0.0,absent(0),0.0,0.0
+13101,Echols County,Georgia,3688,3685,46660,"Valdosta, GA",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,108.46,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48151,Fisher County,Texas,3681,3692,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,108.67,,0.0,0.0,,0.0,absent(0),0.0,0.0
+08023,Costilla County,Colorado,3673,3679,10480,"Alamosa, CO",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,108.9,,0.0,0.0,,0.0,absent(0),0.0,0.0
+40045,Ellis County,Oklahoma,3621,3613,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,110.47,,0.0,0.0,,0.0,absent(0),0.0,0.0
+17069,Hardin County,Illinois,3601,3588,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,111.08,,0.0,0.0,,3.0,published,3.0,83.01
+48095,Concho County,Texas,3577,3607,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,111.83,,0.0,0.0,,0.0,absent(0),0.0,0.0
+38019,Cavalier County,North Dakota,3546,3497,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,112.8,,0.0,0.0,,0.0,absent(0),0.0,0.0
+46061,Hanson County,South Dakota,3501,3456,33580,"Mitchell, SD",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,114.25,,0.0,0.0,,4.0,published,4.0,115.04
+37177,Tyrrell County,North Carolina,3498,3537,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,114.35,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48023,Baylor County,Texas,3482,3472,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,114.88,,0.0,0.0,,3.0,published,3.0,86.16
+02013,Aleutians East Borough,Alaska,3464,3479,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,115.47,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48229,Hudspeth County,Texas,3450,3433,21340,"El Paso, TX",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,115.94,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48081,Coke County,Texas,3388,3412,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,118.06,,0.0,0.0,,0.0,absent(0),0.0,0.0
+08009,Baca County,Colorado,3386,3347,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,118.13,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20019,Chautauqua County,Kansas,3373,3321,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,118.59,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48197,Hardeman County,Texas,3362,3292,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,118.98,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20141,Osborne County,Kansas,3341,3285,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,119.72,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31181,Webster County,Nebraska,3325,3336,25580,"Hastings, NE",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,120.3,,0.0,0.0,,3.0,published,3.0,89.79
+46007,Bennett County,South Dakota,3306,3307,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,120.99,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31105,Kimball County,Nebraska,3298,3391,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,121.29,,0.0,0.0,,3.0,published,3.0,90.55
+40129,Roger Mills County,Oklahoma,3287,3259,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,121.69,,0.0,0.0,,3.0,published,3.0,90.39
+48275,Knox County,Texas,3251,3192,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,123.04,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48435,Sutton County,Texas,3246,3203,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,123.23,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48129,Donley County,Texas,3219,3213,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,124.26,,0.0,0.0,,3.0,published,3.0,94.1
+38029,Emmons County,North Dakota,3217,3215,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,124.34,,0.0,0.0,,0.0,absent(0),0.0,0.0
+28125,Sharkey County,Mississippi,3199,3097,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,125.04,,0.0,0.0,,0.0,absent(0),0.0,0.0
+40059,Harper County,Oklahoma,3196,3172,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,125.16,,0.0,0.0,,0.0,absent(0),0.0,0.0
+27155,Traverse County,Minnesota,3152,3130,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,126.9,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48383,Reagan County,Texas,3146,3166,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,127.15,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48211,Hemphill County,Texas,3138,3083,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,127.47,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20207,Woodson County,Kansas,3116,3118,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,128.37,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48461,Upton County,Texas,3110,3131,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,128.62,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48295,Lipscomb County,Texas,2901,2955,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,137.88,,0.0,0.0,,3.0,published,3.0,102.88
+46043,Douglas County,South Dakota,2868,2888,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,139.47,,0.0,0.0,,3.0,published,3.0,105.49
+20089,Jewell County,Kansas,2864,2830,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,139.66,,0.0,0.0,,0.0,absent(0),0.0,0.0
+38011,Bowman County,North Dakota,2840,2762,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,140.85,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31017,Brown County,Nebraska,2838,2826,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,140.94,,0.0,0.0,,4.0,published,4.0,139.71
+46105,Perkins County,South Dakota,2833,2853,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,141.19,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20165,Rush County,Kansas,2831,2845,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,141.29,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48105,Crockett County,Texas,2803,2769,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,142.7,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48191,Hall County,Texas,2797,2737,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,143.01,,0.0,0.0,,0.0,absent(0),0.0,0.0
+13061,Clay County,Georgia,2795,2815,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,143.11,,0.0,0.0,,0.0,absent(0),0.0,0.0
+46003,Aurora County,South Dakota,2791,2801,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,143.32,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48421,Sherman County,Texas,2777,2781,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,144.04,,0.0,0.0,,0.0,absent(0),0.0,0.0
+16023,Butte County,Idaho,2726,2783,26820,"Idaho Falls, ID",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,146.74,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20047,Edwards County,Kansas,2721,2640,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,147.0,,0.0,0.0,,0.0,absent(0),0.0,0.0
+13007,Baker County,Georgia,2719,2725,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,147.11,,0.0,0.0,,0.0,absent(0),0.0,0.0
+46071,Jackson County,South Dakota,2716,2666,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,147.28,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20063,Gove County,Kansas,2669,2631,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,149.87,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20135,Ness County,Kansas,2629,2617,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,152.15,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20023,Cheyenne County,Kansas,2618,2604,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,152.79,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31063,Frontier County,Nebraska,2605,2655,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,153.55,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48087,Collingsworth County,Texas,2567,2487,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,155.82,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48079,Cochran County,Texas,2536,2546,31180,"Lubbock, TX",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,157.73,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31133,Pawnee County,Nebraska,2517,2510,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,158.92,,0.0,0.0,,3.0,published,3.0,120.14
+20075,Hamilton County,Kansas,2509,2500,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,159.43,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20129,Morton County,Kansas,2498,2470,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,160.13,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31087,Hitchcock County,Nebraska,2485,2467,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,160.97,,0.0,0.0,,3.0,published,3.0,117.05
+38051,McIntosh County,North Dakota,2467,2451,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,162.14,,0.0,0.0,,0.0,absent(0),0.0,0.0
+08033,Dolores County,Colorado,2452,2466,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,163.13,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20049,Elk County,Kansas,2450,2458,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,163.27,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20097,Kiowa County,Kansas,2416,2432,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,165.56,,0.0,0.0,,0.0,absent(0),0.0,0.0
+46107,Potter County,South Dakota,2401,2377,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,166.6,,0.0,0.0,,3.0,published,3.0,124.74
+53023,Garfield County,Washington,2401,2416,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,166.6,,0.0,0.0,,0.0,absent(0),0.0,0.0
+46137,Ziebach County,South Dakota,2381,2389,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,168.0,,0.0,0.0,,,S,0.0,
+21201,Robertson County,Kentucky,2352,2325,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,170.07,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20065,Graham County,Kansas,2351,2371,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,170.14,,0.0,0.0,,0.0,absent(0),0.0,0.0
+40057,Harmon County,Oklahoma,2335,2327,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,171.31,,0.0,0.0,,4.0,published,4.0,166.25
+46089,McPherson County,South Dakota,2332,2347,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,171.53,,0.0,0.0,,0.0,absent(0),0.0,0.0
+13307,Webster County,Georgia,2331,2369,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,171.6,,0.0,0.0,,0.0,absent(0),0.0,0.0
+56027,Niobrara County,Wyoming,2315,2341,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,172.79,,0.0,0.0,,0.0,absent(0),0.0,0.0
+38075,Renville County,North Dakota,2310,2331,33500,"Minot, ND",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,173.16,,0.0,0.0,,0.0,absent(0),0.0,0.0
+13239,Quitman County,Georgia,2309,2254,21640,"Eufaula, AL-GA",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,173.24,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48413,Schleicher County,Texas,2292,2245,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,174.52,,0.0,0.0,,0.0,absent(0),0.0,0.0
+46097,Miner County,South Dakota,2279,2281,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,175.52,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48109,Culberson County,Texas,2273,2267,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,175.98,,0.0,0.0,,,S,0.0,
+08115,Sedgwick County,Colorado,2271,2247,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,176.13,,0.0,0.0,,0.0,absent(0),0.0,0.0
+38039,Griggs County,North Dakota,2226,2239,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,179.69,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31077,Greeley County,Nebraska,2183,2154,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,183.23,,0.0,0.0,,0.0,absent(0),0.0,0.0
+38013,Burke County,North Dakota,2134,2132,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,187.44,,0.0,0.0,,0.0,absent(0),0.0,0.0
+30059,Meagher County,Montana,2095,2137,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,190.93,,0.0,0.0,,0.0,absent(0),0.0,0.0
+30107,Wheatland County,Montana,2058,2100,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,194.36,,0.0,0.0,,0.0,absent(0),0.0,0.0
+46095,Mellette County,South Dakota,2049,2137,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,195.22,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20203,Wichita County,Kansas,2039,2031,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,196.17,,0.0,0.0,,0.0,absent(0),0.0,0.0
+02275,Wrangell City and Borough,Alaska,2038,2007,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,196.27,,0.0,0.0,,0.0,absent(0),0.0,0.0
+38095,Towner County,North Dakota,2037,2040,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,196.37,,0.0,0.0,,0.0,absent(0),0.0,0.0
+41055,Sherman County,Oregon,2015,2051,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,198.51,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20187,Stanton County,Kansas,2009,1986,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,199.1,,0.0,0.0,,0.0,absent(0),0.0,0.0
+41021,Gilliam County,Oregon,1984,1971,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,201.61,,0.0,0.0,,0.0,absent(0),0.0,0.0
+30051,Liberty County,Montana,1951,1957,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,205.02,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48327,Menard County,Texas,1920,1956,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,208.33,,0.0,0.0,,0.0,absent(0),0.0,0.0
+32011,Eureka County,Nevada,1917,1867,21220,"Elko, NV",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,208.66,,0.0,0.0,,0.0,absent(0),0.0,0.0
+29227,Worth County,Missouri,1912,1914,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,209.21,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20025,Clark County,Kansas,1890,1900,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,211.64,,0.0,0.0,,0.0,absent(0),0.0,0.0
+38047,Logan County,North Dakota,1884,1859,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,212.31,,0.0,0.0,,0.0,absent(0),0.0,0.0
+38065,Oliver County,North Dakota,1884,1898,13900,"Bismarck, ND",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,212.31,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31049,Deuel County,Nebraska,1863,1862,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,214.71,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31073,Gosper County,Nebraska,1827,1803,30420,"Lexington, NE",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,218.94,,0.0,0.0,,3.0,published,3.0,162.6
+46055,Haakon County,South Dakota,1824,1802,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,219.3,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48011,Armstrong County,Texas,1814,1843,11100,"Amarillo, TX",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,220.51,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31069,Garden County,Nebraska,1811,1804,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,220.87,,0.0,0.0,,0.0,absent(0),0.0,0.0
+46017,Buffalo County,South Dakota,1809,1802,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,221.12,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48359,Oldham County,Texas,1794,1783,11100,"Amarillo, TX",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,222.97,,0.0,0.0,,0.0,absent(0),0.0,0.0
+38091,Steele County,North Dakota,1790,1797,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,223.46,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48243,Jeff Davis County,Texas,1775,1711,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,225.35,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31015,Boyd County,Nebraska,1718,1674,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,232.83,,0.0,0.0,,0.0,absent(0),0.0,0.0
+30055,McCone County,Montana,1715,1720,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,233.24,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48125,Dickens County,Texas,1702,1692,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,235.02,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31071,Garfield County,Nebraska,1699,1710,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,235.43,,0.0,0.0,,0.0,absent(0),0.0,0.0
+08017,Cheyenne County,Colorado,1692,1713,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,236.41,,0.0,0.0,,0.0,absent(0),0.0,0.0
+46073,Jerauld County,South Dakota,1675,1654,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,238.81,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20033,Comanche County,Kansas,1673,1673,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,239.09,,0.0,0.0,,0.0,absent(0),0.0,0.0
+20083,Hodgeman County,Kansas,1665,1619,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,240.24,,0.0,0.0,,3.0,published,3.0,178.57
+35011,De Baca County,New Mexico,1650,1647,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,242.42,,0.0,0.0,,0.0,absent(0),0.0,0.0
+30019,Daniels County,Montana,1643,1612,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,243.46,,0.0,0.0,,0.0,absent(0),0.0,0.0
+13265,Taliaferro County,Georgia,1627,1662,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,245.85,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31057,Dundy County,Nebraska,1569,1568,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,254.94,,0.0,0.0,,0.0,absent(0),0.0,0.0
+49031,Piute County,Utah,1547,1509,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,258.56,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48447,Throckmorton County,Texas,1536,1554,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,260.42,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48235,Irion County,Texas,1509,1463,41660,"San Angelo, TX",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,265.08,,0.0,0.0,,3.0,published,3.0,193.3
+20101,Lane County,Kansas,1501,1508,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,266.49,,0.0,0.0,,0.0,absent(0),0.0,0.0
+46119,Sully County,South Dakota,1473,1479,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,271.55,,0.0,0.0,,3.0,published,3.0,202.02
+48045,Briscoe County,Texas,1472,1474,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,271.74,,0.0,0.0,,0.0,absent(0),0.0,0.0
+30011,Carter County,Montana,1422,1383,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,281.29,,0.0,0.0,,0.0,absent(0),0.0,0.0
+08061,Kiowa County,Colorado,1403,1412,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,285.1,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48137,Edwards County,Texas,1381,1370,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,289.65,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48431,Sterling County,Texas,1373,1349,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,291.33,,0.0,0.0,,0.0,absent(0),0.0,0.0
+46021,Campbell County,South Dakota,1343,1377,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,297.84,,0.0,0.0,,0.0,absent(0),0.0,0.0
+46063,Harding County,South Dakota,1312,1331,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,304.88,,0.0,0.0,,0.0,absent(0),0.0,0.0
+02164,Lake and Peninsula Borough,Alaska,1310,1357,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,305.34,,0.0,0.0,,0.0,absent(0),0.0,0.0
+28055,Issaquena County,Mississippi,1288,1263,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,310.56,,0.0,0.0,,0.0,absent(0),0.0,0.0
+16025,Camas County,Idaho,1287,1316,25200,"Hailey, ID",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,310.8,,0.0,0.0,,0.0,absent(0),0.0,0.0
+08057,Jackson County,Colorado,1277,1211,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,313.23,,0.0,0.0,,0.0,absent(0),0.0,0.0
+38083,Sheridan County,North Dakota,1274,1296,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,313.97,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48101,Cottle County,Texas,1267,1224,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,315.71,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31149,Rock County,Nebraska,1262,1259,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,316.96,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48433,Stonewall County,Texas,1224,1186,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,326.8,,0.0,0.0,,0.0,absent(0),0.0,0.0
+46069,Hyde County,South Dakota,1209,1191,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,330.85,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31165,Sioux County,Nebraska,1205,1188,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,331.95,,0.0,0.0,,0.0,absent(0),0.0,0.0
+30033,Garfield County,Montana,1175,1148,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,340.43,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48173,Glasscock County,Texas,1145,1128,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,349.34,,0.0,0.0,,0.0,absent(0),0.0,0.0
+30079,Prairie County,Montana,1108,1112,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,361.01,,0.0,0.0,,0.0,absent(0),0.0,0.0
+06003,Alpine County,California,1086,1043,23820,"Gardnerville Ranchos, NV-CA",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,368.32,,0.0,0.0,,0.0,absent(0),0.0,0.0
+38007,Billings County,North Dakota,1052,1071,19860,"Dickinson, ND",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,380.23,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48155,Foard County,Texas,1048,1044,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,381.68,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48345,Motley County,Texas,1003,1043,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,398.8,,0.0,0.0,,0.0,absent(0),0.0,0.0
+49009,Daggett County,Utah,952,934,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,420.17,,0.0,0.0,,0.0,absent(0),0.0,0.0
+08079,Mineral County,Colorado,924,910,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,432.9,,0.0,0.0,,3.0,published,3.0,323.97
+30109,Wibaux County,Montana,912,885,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,438.6,,0.0,0.0,,0.0,absent(0),0.0,0.0
+46075,Jones County,South Dakota,898,913,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,445.43,,0.0,0.0,,0.0,absent(0),0.0,0.0
+02060,Bristol Bay Borough,Alaska,865,847,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,462.43,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48393,Roberts County,Texas,853,867,37420,"Pampa, TX",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,468.93,,0.0,0.0,,0.0,absent(0),0.0,0.0
+30037,Golden Valley County,Montana,844,844,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,473.93,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31085,Hayes County,Nebraska,838,821,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,477.33,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31103,Keya Paha County,Nebraska,808,792,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,495.05,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31183,Wheeler County,Nebraska,792,789,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,505.05,,0.0,0.0,,0.0,absent(0),0.0,0.0
+16033,Clark County,Idaho,782,783,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,511.51,,0.0,0.0,,0.0,absent(0),0.0,0.0
+08053,Hinsdale County,Colorado,753,753,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,531.21,,0.0,0.0,,0.0,absent(0),0.0,0.0
+32009,Esmeralda County,Nevada,739,729,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,541.27,,0.0,0.0,,0.0,absent(0),0.0,0.0
+30103,Treasure County,Montana,735,728,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,544.22,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48443,Terrell County,Texas,711,702,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,562.59,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48263,Kent County,Texas,699,674,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,572.25,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31091,Hooker County,Nebraska,698,686,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,573.07,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31113,Logan County,Nebraska,683,669,35820,"North Platte, NE",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,585.65,,0.0,0.0,,0.0,absent(0),0.0,0.0
+02282,Yakutat City and Borough,Alaska,681,672,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,587.37,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31007,Banner County,Nebraska,670,686,42420,"Scottsbluff, NE",Micropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,597.01,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31171,Thomas County,Nebraska,649,639,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,616.33,,0.0,0.0,,0.0,absent(0),0.0,0.0
+38087,Slope County,North Dakota,644,628,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,621.12,,0.0,0.0,,0.0,absent(0),0.0,0.0
+35021,Harding County,New Mexico,621,617,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,644.12,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31115,Loup County,Nebraska,586,570,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,682.59,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31075,Grant County,Nebraska,563,561,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,710.48,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48033,Borden County,Texas,560,567,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,714.29,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48311,McMullen County,Texas,558,544,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,716.85,,0.0,0.0,,0.0,absent(0),0.0,0.0
+30069,Petroleum County,Montana,538,548,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,743.49,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31009,Blaine County,Nebraska,459,458,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,871.46,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31005,Arthur County,Nebraska,417,396,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,959.23,,0.0,0.0,,0.0,absent(0),0.0,0.0
+31117,McPherson County,Nebraska,374,369,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,1069.52,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48261,Kenedy County,Texas,323,319,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,1238.39,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48269,King County,Texas,212,192,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,1886.79,,0.0,0.0,,0.0,absent(0),0.0,0.0
+15005,Kalawao County,Hawaii,82,82,27980,"Kahului-Wailuku, HI",Metropolitan Statistical Area,0,0,0,0.0,absent(0),0.0,0.0,4.0,4878.05,,0.0,0.0,,0.0,absent(0),0.0,0.0
+48301,Loving County,Texas,47,52,,,Outside CBSA (rural),0,0,0,0.0,absent(0),0.0,0.0,4.0,8510.64,,0.0,0.0,,0.0,absent(0),0.0,0.0
